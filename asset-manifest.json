@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.361be265.chunk.css",
-    "main.js": "/static/js/main.f80c7cb8.chunk.js",
-    "main.js.map": "/static/js/main.f80c7cb8.chunk.js.map",
+    "main.css": "/static/css/main.9919b3fe.chunk.css",
+    "main.js": "/static/js/main.f8866357.chunk.js",
+    "main.js.map": "/static/js/main.f8866357.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0403a33d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0403a33d.js.map",
-    "static/js/2.5ae157c7.chunk.js": "/static/js/2.5ae157c7.chunk.js",
-    "static/js/2.5ae157c7.chunk.js.map": "/static/js/2.5ae157c7.chunk.js.map",
+    "static/js/2.b8397497.chunk.js": "/static/js/2.b8397497.chunk.js",
+    "static/js/2.b8397497.chunk.js.map": "/static/js/2.b8397497.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2515f8fdbee88e76b3d030e3caddc754.js": "/precache-manifest.2515f8fdbee88e76b3d030e3caddc754.js",
+    "precache-manifest.ef8dad4f0f583de503c0e0e19b2d065e.js": "/precache-manifest.ef8dad4f0f583de503c0e0e19b2d065e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.361be265.chunk.css.map": "/static/css/main.361be265.chunk.css.map",
+    "static/css/main.9919b3fe.chunk.css.map": "/static/css/main.9919b3fe.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/TSF_logo.png": "/static/media/TSF_logo.cf70c3e6.png",
     "static/media/UC_Davis_logo.png": "/static/media/UC_Davis_logo.10464c52.png",
@@ -37,8 +37,10 @@
     "static/media/hfil_logo.png": "/static/media/hfil_logo.44620be9.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/kamal1.jpg": "/static/media/kamal1.5f837e0a.jpg",
     "static/media/logo2.png": "/static/media/logo2.b222a7a2.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/mozilla_logo.png": "/static/media/mozilla_logo.27d319b4.png",
     "static/media/penn_logo.png": "/static/media/penn_logo.bc861e0f.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
@@ -50,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0403a33d.js",
-    "static/js/2.5ae157c7.chunk.js",
-    "static/css/main.361be265.chunk.css",
-    "static/js/main.f80c7cb8.chunk.js"
+    "static/js/2.b8397497.chunk.js",
+    "static/css/main.9919b3fe.chunk.css",
+    "static/js/main.f8866357.chunk.js"
   ]
 }
